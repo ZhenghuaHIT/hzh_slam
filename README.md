@@ -3,7 +3,7 @@
 
 **2017.2.12**: Finish this stereo VO.
 
-**Introduce**： This is a very simple VO that can only be run on KITTI stereo datasets. It has not yet provided a visualization and an interface to save camera trajectory. This VO is a refactoring of ORB_SLAM2. The entire framework and the front-end are modeled after it. In contrast, this VO simplifies the back-end LocalMapping thread and simplifies the neighboring frame relationship of the Covisibility Graph.
+**Introduce**： This is a very simple VO that can only be run on KITTI stereo datasets. It has not yet provided a visualization and an interface to save camera trajectory. This VO is a refactoring of **ORB_SLAM2**. The entire framework and the front-end are modeled after it. In contrast, this VO simplifies the back-end LocalMapping thread and simplifies the neighboring frame relationship of the Covisibility Graph.
 
 **References**: [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) by Raulmur.
 
